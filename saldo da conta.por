@@ -1,6 +1,6 @@
 programa {
   funcao inicio() {
-   inteiro menor , saldo 
+   real menor , saldo 
    escreva("informe o valor da compra: ")
    leia(saldo)
 
